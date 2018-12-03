@@ -1,0 +1,23 @@
+p{
+  font-size: 40px;
+  color:black;
+  float: center;
+  font-style: italic;
+
+}
+
+html{
+  background-image: url(http://www.isejingu.or.jp/sp/wallpaper/img/wallpaper_p02.jpg);
+  background-size: cover;
+}
+
+ul{
+  float: left;
+}
+div{
+line-height: 40px;
+
+width: 100px;
+height: 150px;
+border: medium solid #ff00ff;
+}
