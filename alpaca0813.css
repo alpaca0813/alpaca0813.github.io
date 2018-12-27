@@ -1,8 +1,13 @@
 p{
-  font-size: 40px;
+  font-size: 20px;
   color:black;
   float: center;
   font-style: italic;
+}
+
+h1{
+  font-size: 70px;
+#;
 
 }
 
@@ -16,8 +21,11 @@ ul{
 }
 div{
 line-height: 40px;
-
 width: 100px;
 height: 150px;
-border: medium solid #ff00ff;
+}
+
+img.fb{
+  image-size: 40%;
+
 }
